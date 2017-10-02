@@ -20,3 +20,6 @@ Blog post about matrix factorisation for recommender systems, with R code. Espec
 
 Translation of the recommendation problem to a classification problem with diverse features:
 - https://www.youtube.com/watch?v=eZZQ3UTn484&app=desktop
+
+Tutorial "One million dataset":
+- https://medium.com/towards-data-science/how-to-build-a-simple-song-recommender-296fcbc8c85
