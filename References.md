@@ -23,3 +23,6 @@ Translation of the recommendation problem to a classification problem with diver
 
 Tutorial "One million dataset":
 - https://medium.com/towards-data-science/how-to-build-a-simple-song-recommender-296fcbc8c85
+
+Cheat Sheet
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
