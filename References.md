@@ -29,3 +29,8 @@ TF-IDF:
 
 Cheat Sheet
 - https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+Standford Lectures on Recommender Systems:
+- https://www.youtube.com/watch?v=h9gpufJFF-0
+- https://www.youtube.com/watch?v=6BTLobS7AU8
+- https://www.youtube.com/watch?v=P5mlg91as1c (SVD)
