@@ -30,4 +30,5 @@ Possibilities for hybrids and submissions:
     pipe_S_cf = cbf_URM_estm_norm.T * cbf_URM_estm_norm
     pipe_cf_URM_estm = URM * pipe_S_cf
   - similarity-average
-    
+
+This list is not finished yet...
